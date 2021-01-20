@@ -1,0 +1,27 @@
+[
+  {
+    "model": "staff.Staffmodels",
+    "pk": 7,
+    "fields": {
+      "name": "John",
+      "salary": "1000",
+      "salary_all": "10000",
+      "position": "A",
+      "date_employment": "2020-12-01",
+      "slug":"John"
+
+    }
+  },
+  {
+    "model": "staff.Staffmodels",
+    "pk": 8,
+    "fields": {
+      "name": "Don",
+      "salary": "1000",
+      "salary_all": "10000",
+      "position": "B",
+      "date_employment": "2020-12-01",
+       "slug":"Don"
+    }
+  }
+]
